@@ -1,0 +1,4 @@
+1.此pom.xml文件 配置了spark的maven依赖
+  另外一种方式：
+  导入spark-assembly-1.6.1-hadoop2.6.0.jar 包，可以进行Scala和java的支持。
+2.
